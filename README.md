@@ -4,6 +4,8 @@ This repository is designed to capture ideas for contributions to the [Astro2020
 
 ## (WIP) Potential paper topics 
 
+An idea we floated was to develop ~3 papers (designed to be presented as a coherent series) that discuss the role of open source software, sustainability, careers and training etc.
+
 ### Paper 1: Sustainability
 
 Authors: [Arfon Smith](@arfon), add your name here...

@@ -2,9 +2,9 @@
 
 This repository is designed to capture ideas for contributions to the [Astro2020 Decadal Survey](http://sites.nationalacademies.org/SSB/CurrentProjects/SSB_185159) broadly around the subject of open source astronomical software.
 
-## (WIP) Potential topics 
+## (WIP) Potential paper topics 
 
-### Sustainability
+### Paper 1: Sustainability
 
 Authors: [Arfon Smith](@arfon), add your name here...
 
@@ -23,11 +23,11 @@ Rather than try and make some of the standard arguments for open source, support
 - Sustainability of Open Source software communities beyond a fork: How and why has the LibreOffice project evolved?: https://doi.org/10.1016/j.jss.2013.11.1077
 - Producing Open Source Software: https://producingoss.com/
 
-### Recognition and career advancement
+### Paper 2: Recognition and career advancement
 
 Something about career credit, citations, funding, career paths.
 
-### Training and professional development
+### Paper 3: Training and professional development
 
 Education and training for astronomers (software carpentry and ACI-REF) and how this relates to diversity and inclusion
 

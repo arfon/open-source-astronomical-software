@@ -29,9 +29,13 @@ Rather than try and make some of the standard arguments for open source, support
 
 Something about career credit, citations, funding, career paths.
 
+Lots to lift from the text created for the _Petabytes to science_ meeting report here: https://petabytestoscience.github.io/
+
 ### Paper 3: Training and professional development
 
 Education and training for astronomers (software carpentry and ACI-REF) and how this relates to diversity and inclusion
+
+Lots to lift from the text created for the _Petabytes to science_ meeting report here: https://petabytestoscience.github.io/
 
 ### Possible additional topics 
 
